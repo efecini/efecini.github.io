@@ -84,7 +84,42 @@ const Blog = () => {
                 </div>
             ))
         }
-
+        /*H0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0o0*/
+        array.push((
+                <div className="card shadow-lg compact bg-base-100" key={2}>
+                    <div className="p-8 h-full w-full">
+                        <div className="flex items-center flex-col md:flex-row">
+                            <div className="avatar mb-5 md:mb-0">
+                                <div className="w-24 h-24 mask mask-squircle">
+                                    {
+                                        skeleton({
+                                            width: 'w-full',
+                                            height: 'h-full',
+                                            shape: '',
+                                        })
+                                    }
+                                </div>
+                            </div>
+                            <div className="w-full">
+                                <div className="flex items-start px-4">
+                                    <div className="w-full">
+                                        <h2>
+                                            {skeleton({ width: 'w-full', height: 'h-8', className: 'mb-2 mx-auto md:mx-0' })}
+                                        </h2>
+                                        {skeleton({ width: 'w-24', height: 'h-3', className: 'mx-auto md:mx-0' })}
+                                        <div className="mt-3">
+                                            {skeleton({ width: 'w-full', height: 'h-4', className: 'mx-auto md:mx-0' })}
+                                        </div>
+                                        <div className="mt-4 flex items-center flex-wrap justify-center md:justify-start">
+                                            {skeleton({ width: 'w-32', height: 'h-4', className: "md:mr-2 mx-auto md:mx-0" })}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            ))
         return array;
     }
 
