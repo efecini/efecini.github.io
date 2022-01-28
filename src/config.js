@@ -26,6 +26,9 @@ module.exports = {
         'Django',
         'Python',
         'Lightning Network',
+        'HTML',
+        'CSS',
+        'JavaScript'
     ],
     experiences: [],
     education: [],
