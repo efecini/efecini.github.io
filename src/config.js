@@ -1,4 +1,4 @@
-ni// config.js
+// config.js
 module.exports = {
     github: {
         username: 'efecini', // Your GitHub org/user name. (Required)
