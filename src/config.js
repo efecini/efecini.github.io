@@ -16,8 +16,8 @@ module.exports = {
         dribbble: '',
         behance: '',
         medium: '',
-        devto: 'arifszn',
-        website: 'https://efecini.github.io',
+        devto: '',
+        website: '',
         phone: '',
         email: 'efecini@gmail.com'
     },
