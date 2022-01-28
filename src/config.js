@@ -10,16 +10,16 @@ module.exports = {
         }
     },
     social: {
-        linkedin: 'ariful-alam',
-        twitter: 'arif_swozon',
+        linkedin: 'efecini',
+        twitter: 'efecini',
         facebook: '',
         dribbble: '',
         behance: '',
         medium: '',
         devto: 'arifszn',
-        website: 'https://arifszn.github.io',
+        website: 'https://efecini.github.io',
         phone: '',
-        email: 'arifulalamszn@gmail.com'
+        email: 'efecini@gmail.com'
     },
     skills: [
         'PHP',
