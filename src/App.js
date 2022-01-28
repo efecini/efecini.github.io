@@ -161,6 +161,11 @@ function App() {
                                     </div>
                                 </div>
                             </div>
+                            <footer className="p-4 footer bg-base-200 text-base-content footer-center">
+                                <div>
+                                    <p className="font-mono text-sm">© 2022</p>
+                                </div>
+                            </footer>
                         </Fragment>
                     )
                 }
