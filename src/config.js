@@ -22,18 +22,10 @@ module.exports = {
         email: 'efecini@gmail.com'
     },
     skills: [
-        'PHP',
-        'Laravel',
-        'JavaScript',
-        'React.js',
-        'Node.js',
-        'MySQL',
-        'Git',
-        'Docker',
-        'CSS',
-        'Antd',
-        'Tailwind',
-        'Bootstrap',
+        'Bitcoin',
+        'Django',
+        'Python',
+        'Lightning Network',
     ],
     experiences: [
         { 
@@ -102,27 +94,8 @@ module.exports = {
 
         // Available themes. To remove any theme, exclude from here.
         themes: [
-            'light',
-            'dark',
-            'cupcake',
+            default:'light',
             'bumblebee',
-            'emerald',
-            'corporate',
-            'synthwave',
-            'retro',
-            'cyberpunk',
-            'valentine',
-            'halloween',
-            'garden',
-            'forest',
-            'aqua',
-            'lofi',
-            'pastel',
-            'fantasy',
-            'wireframe',
-            'black',
-            'luxury',
-            'dracula'
         ]
     }
 }
