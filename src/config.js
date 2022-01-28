@@ -23,9 +23,9 @@ module.exports = {
     },
     skills: [
         'Bitcoin',
-        'Django',
-        'Python',
         'Lightning Network',
+        'Python',
+        'Django',
         'HTML',
         'CSS',
         'JavaScript'
