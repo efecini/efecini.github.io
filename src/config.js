@@ -94,7 +94,7 @@ module.exports = {
 
         // Available themes. To remove any theme, exclude from here.
         themes: [
-            default: 'light',
+            'light',
             'bumblebee',
         ]
     }
